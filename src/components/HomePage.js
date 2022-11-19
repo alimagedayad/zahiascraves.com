@@ -12,7 +12,7 @@ const HomePage = () => {
 
             <Typed
                 className='adx'
-                strings={['Coming Soon!', 'ZAHIA']}
+                strings={['Coming Soon!', 'Stay Tuned!']}
                 showCursor={false}
                 typeSpeed={60}
             />
