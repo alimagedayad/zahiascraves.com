@@ -1,0 +1,100 @@
+@font-face {
+    font-family: 'Transitional';
+    src: local('Transitional 511 Bold'), local('Transitional511BT-Bold'),
+        url('../assets/fonts/Transitional511BT-Bold.woff2') format('woff2'),
+        url('../assets/fonts/Transitional511BT-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Transitional';
+    src: local('Transitional 511'), local('Transitional511BT-Roman'),
+        url('../assets/fonts/Transitional511BT-Roman.woff2') format('woff2'),
+        url('../assets/fonts/Transitional511BT-Roman.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+* {
+    background-color: #778d71;
+    font-family: 'Transitional', sans-serif;
+}
+
+.outer-circle {
+    text-align: center;
+    display: flex;
+    align-items: center;    
+    justify-content: center;
+  }
+  
+  .main-div {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column
+  }
+
+  .adx {
+    display: block;
+    text-align: center;
+    font-size: 70px;
+    color: white;
+    font-weight: normal;
+  }
+
+  
+// body {
+//     font-family: 'Poppins', cursive;
+//     color: black;
+//     font-size: 40px;
+//     font-weight: 200 !important;
+//     display: grid;
+// }
+  
+// .logo{
+//     display: inline-block;
+//     font-size: 70px;
+//     font-weight: 800;
+//     font-family: Gilroy;
+//     display: flex;
+//     height: 100%;
+//     padding: 0;
+//     margin: 0;
+//     display: -webkit-box;
+//     display: -moz-box;
+//     display: -ms-flexbox;
+//     display: -webkit-flex;
+//     display: flex;
+//     align-items: center;
+//     justify-content: center;
+//     color: white;
+// }
+
+// .adx{
+//     display: inline-block;
+//     font-size: 70px;
+//     font-weight: 800;
+//     font-family: Gilroy;
+//     display: flex;
+//     height: 100%;
+//     padding: 0;
+//     margin: 0;
+//     display: -webkit-box;
+//     display: -moz-box;
+//     display: -ms-flexbox;
+//     display: -webkit-flex;
+//     display: flex;
+//     align-items: center;
+//     justify-content: center;
+//     color: white;
+//   }
+
+//   html,body{
+//     height: 100%;
+//   }
+//   body{
+//     margin: 0;
+//   }

@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'Transitional 511';
+    src: local('Transitional 511 Bold'), local('Transitional511BT-Bold'),
+        url('Transitional511BT-Bold.woff2') format('woff2'),
+        url('Transitional511BT-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Transitional 511';
+    src: local('Transitional 511'), local('Transitional511BT-Roman'),
+        url('Transitional511BT-Roman.woff2') format('woff2'),
+        url('Transitional511BT-Roman.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
